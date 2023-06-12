@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhkfazano aka Bruno Koga!
-- 👀 I’m interested in everything related to technology, especially data engineering, AI, Devops and System Design. I also have a lot of interest in management, business and leadership.
+- 👀 I’m interested in everything related to technology, especially System Design, AI, Devops and backend development. I also have a lot of interest in management, business and leadership.
 - 🌱 I’m currently learning NestJs and looking forward to learning Java and Spring!
 
 
